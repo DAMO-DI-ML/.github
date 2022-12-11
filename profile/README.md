@@ -5,4 +5,4 @@ Our team is located in Hangzhou, China and Bellevue, WA, USA. We are very happy 
 More introduction to our lab - Decision Intelligence Lab, please go to our [official website](https://damo.alibaba.com/labs/decision-intelligence).
 
 News on 12/11/2022:
-We are hiring both full time employees and interns in both Hangzhou and Bellevue. Please contact liang[dot]sun[at]alibaba-inc.com. for more details.
+We are hiring both full time employees and interns in both Hangzhou and Bellevue. Please contact liang[dot]sun[at]alibaba-inc.com for more details.
