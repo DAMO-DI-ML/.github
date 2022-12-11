@@ -3,3 +3,6 @@ We are a group of engineers and researchers from the Decision Intelligence Lab o
 Our team is located in Hangzhou, China and Bellevue, WA, USA. We are very happy to hire interns in both Hangzhou and Bellevue for collaboration on cutting-edge research on time series and XAI. For internship opportunity, please contact liang[dot]sun[at]alibaba-inc.com. 
 
 More introduction to our lab - Decision Intelligence Lab, please go to our [official website](https://damo.alibaba.com/labs/decision-intelligence).
+
+News on 12/11/2022:
+We are hiring both full time employees and interns in both Hangzhou and Bellevue. Please contact liang[dot]sun[at]alibaba-inc.com. for more details.
